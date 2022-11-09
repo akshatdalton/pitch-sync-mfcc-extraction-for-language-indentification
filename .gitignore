@@ -133,3 +133,5 @@ dataset
 
 mfcc/
 models/
+
+.DS_Store
