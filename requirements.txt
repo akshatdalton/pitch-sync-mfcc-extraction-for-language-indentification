@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+librosa
+python_speech_features
+scikit-learn
+pandas
