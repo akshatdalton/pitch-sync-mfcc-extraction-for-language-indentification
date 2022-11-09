@@ -129,9 +129,6 @@ dmypy.json
 .pyre/
 
 # Ignore dataset
-dataset
-
-mfcc/
-models/
+dataset*/
 
 .DS_Store
