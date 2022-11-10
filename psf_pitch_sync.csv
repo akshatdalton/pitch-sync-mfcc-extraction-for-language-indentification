@@ -1,8 +1,8 @@
 ,assamese,bengali,gujarathi,manipuri,marathi,odia,telugu
-assamese,20,0,0,0,0,0,0
-bengali,0,21,0,0,0,0,0
-gujarathi,0,0,21,0,0,0,1
-manipuri,0,0,0,20,0,0,0
-marathi,0,0,0,0,20,0,0
-odia,0,0,0,0,0,20,0
-telugu,0,0,0,0,0,0,19
+assamese,30,0,0,0,0,0,0
+bengali,0,31,0,0,0,0,0
+gujarathi,0,0,29,0,0,0,3
+manipuri,0,0,0,30,0,0,0
+marathi,0,0,0,0,30,0,1
+odia,0,0,0,0,0,30,1
+telugu,0,0,2,0,0,0,25
